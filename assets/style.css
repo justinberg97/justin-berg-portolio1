@@ -69,6 +69,10 @@ form {
     width: auto;
     
 }
+.images1 {
+    height: 300px;
+    width: auto;
+}
 
 @media screen and (min-width: 600px){
     .header {
