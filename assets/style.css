@@ -25,12 +25,19 @@
 }
 .header li a {
     color:var(--honey-dew-light); 
+
 }
+
+p {
+    text-align: center;
+}
+
 .main-body {
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: var(--honey-dew-light);
+    text-align: center;
 }
 #projects {
     margin: 5px;
@@ -54,15 +61,11 @@
 
 }
 form {
-    display: flex; 
-    justify-content: space-around;
-    background-color: var(--light-blue);
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: space-around;
-    align-items: flex-end;
+    display: inline;
+    justify-content: center;
+}
+.right-contact {
+    justify-content: center;
 }
 .images {
     height: 250px;
