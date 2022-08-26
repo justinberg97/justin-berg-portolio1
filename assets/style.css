@@ -14,9 +14,6 @@
     font-family: 'Poppins', sans-serif;
  }
 
-body {
-    
-}
 .header {
     background-color: var(--light-blue
     );
@@ -36,13 +33,43 @@ body {
     background-color: var(--honey-dew-light);
 }
 #projects {
-    align-items: center;
+    margin: 5px;
+    background-color: var(--honey-dew-light);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+
+}
+#contact {
+    background-color: var(--honey-dew-light);
+    width: auto;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.footer {
+    background-color: var(--honey-dew-light);
 
 }
 form {
     display: flex; 
     justify-content: space-around;
+    background-color: var(--light-blue);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: flex-end;
 }
+.images {
+    height: 250px;
+    width: auto;
+    
+}
+
 @media screen and (min-width: 600px){
     .header {
         border-color: green;
