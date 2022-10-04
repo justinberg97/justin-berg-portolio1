@@ -24,3 +24,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Completed Task with the help of fellow classmate Salma Gonzalez. 
 
+<img width="1440" alt="Screen Shot 2022-08-26 at 2 24 55 AM" src="https://user-images.githubusercontent.com/110484382/186847591-0d8ed214-59a5-4603-9b7c-655f76cea973.png">
+
